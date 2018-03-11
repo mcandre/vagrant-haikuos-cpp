@@ -1,3 +1,7 @@
+# DEPRECATED
+
+See https://github.com/mcandre/vagrant-haiku-cpp instead
+
 # vagrant-haikuos-cpp: a Vagrant box for building C/C++ binaries for HaikuOS
 
 # DISCLAIMER
